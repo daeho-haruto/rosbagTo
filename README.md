@@ -24,3 +24,7 @@ options:
   --rosbag ROSBAG  bag directory path ex."/home/rosbag/"
   --format FORMAT  ouput file format -> "csv | json"
 ```
+
+### Result
+##### created file path = command arg rosbag path
+> <img width="475" alt="image" src="https://user-images.githubusercontent.com/74733705/216146113-52a4979e-8003-4895-9dc1-abd1c8d31f1d.png">
